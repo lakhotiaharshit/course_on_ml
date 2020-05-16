@@ -1,1 +1,3 @@
-# course_on_ml
+This is a course on machine learning. 
+
+#Topics to cover 
